@@ -4,7 +4,7 @@
 Here I will publish my sprites for various projects with their own meta, because on Russian-language servers there are faggots stealing my sprites.
 
 ## **license**
-This project use [MIT](
+This project use [MIT](https://github.com/Leopadro/my-sprites-with-my-meta/blob/main/LICENSE)
 
 ## **Contacts**
 You can write me in discord: leopadro
